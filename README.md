@@ -1,9 +1,9 @@
 # STUDENT'S MENTAL HEALTH ANALYSIS
 
-## Table of Contents
+### Table of Contents
 [Introduction](introduction)
 
-**INTRODUCTION**
+### Introduction
 ---
 
 Mental health has become an increasingly important topic in educational institutions, especially among university students who face academic pressures, social expectations, and personal challenges. This report explores the mental health status of students based on various factors, including gender, CGPA, year of study, course of study, and marital status.
