@@ -11,6 +11,8 @@
 
 [Feature Engineering](#feature-engineering)
 
+[Visualization and Key Findings](#visualization-and-key-findings)
+
 
 
 ### Introduction
@@ -209,7 +211,7 @@ For a CGPA range of "3.00 - 3.49", the formula calculates:
 This method was applied across all CGPA values, allowing for statistical analysis such as descriptive statistics, scatter plots, and bar charts.
 
 ---
-
+### Visualization and Key Findings
 **VISUALIZATION AND KEY FINDINGS**
 A.	Gender Distribution: I created pivot tables and chart that showed the gender distributions having more females than male students. With a total number of 101 students, 75 are female students and 26 are male students.
 
