@@ -1,3 +1,8 @@
+# STUDENT'S MENTAL HEALTH ANALYSIS
+
+## Table of Contents
+[Introduction](introduction)
+
 **INTRODUCTION**
 ---
 
