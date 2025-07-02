@@ -5,6 +5,8 @@
 
 [Objectives](#objectives)
 
+[Project Strategy](#project-strategy)
+
 ### Introduction
 ---
 
@@ -26,6 +28,7 @@ To provide a comprehensive and data-driven analysis, this report aims to answer 
 - What are the key insights from the demographic and statistical analysis of the students surveyed?
 
 ---
+### Project Strategy
 **BASIS**
 --
 This Data set was collected by a survey conducted by Google forms from university student to examine their current academic situation and mental health. All the data was based on Malaysia and collected from IIUM (International Islamic University Malaysia).
