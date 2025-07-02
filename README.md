@@ -5,7 +5,13 @@
 
 [Objectives](#objectives)
 
+[Basis](#basis)
+
 [Project Strategy](#project-strategy)
+
+[Feature Engineering](#feature-engineering)
+
+
 
 ### Introduction
 ---
@@ -28,8 +34,7 @@ To provide a comprehensive and data-driven analysis, this report aims to answer 
 - What are the key insights from the demographic and statistical analysis of the students surveyed?
 
 ---
-### Project Strategy
-**BASIS**
+### Basis
 --
 This Data set was collected by a survey conducted by Google forms from university student to examine their current academic situation and mental health. All the data was based on Malaysia and collected from IIUM (International Islamic University Malaysia).
 I downloaded this dataset from https://www.kaggle.com/datasets/shariful07/student-mental-health/data in CSV (Comma Separated Values) format and it has the following column headers;
@@ -144,7 +149,7 @@ Art:
 
 ---
 
-**PROJECT STRATEGY**
+### Project Strategy
 --
 
 With Microsoft Excel, I did all the cleaning, visualizations, and analysis. There was not much cleaning, but these were the few things I did.
@@ -161,7 +166,7 @@ After doing this, the dataset became clean for visualization and analysis. Hence
 
 
 ---
-**FEATURE ENGINEERING**
+### Feature Engineering
 ---
 
 This is the process of selecting, transforming, and creating new features from existing data to improve the performance and activity of machine learning models. In this case, there are no machine learning models.
