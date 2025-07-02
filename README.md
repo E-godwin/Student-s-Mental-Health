@@ -1,7 +1,9 @@
 # STUDENT'S MENTAL HEALTH ANALYSIS
 
 ### Table of Contents
-[Introduction](introduction)
+[Introduction](#introduction)
+
+[Objectives](#objectives)
 
 ### Introduction
 ---
@@ -13,6 +15,7 @@ The dataset used for this analysis includes key indicators such as depression, a
 Additionally, this study provides data-driven recommendations to help universities, educators, and policymakers implement targeted interventions and create a healthier learning environment for students. The findings are presented using various visualizations and statistical insights, offering a comprehensive understanding of the relationship between academic life and mental well-being.
 
 ---
+### Objectives
 **WHAT DO WE NEED TO ANSWER IN THIS REPORT?**
 ---
 To provide a comprehensive and data-driven analysis, this report aims to answer the following critical questions:
