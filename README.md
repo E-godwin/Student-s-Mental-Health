@@ -13,6 +13,8 @@
 
 [Visualization and Key Findings](#visualization-and-key-findings)
 
+[Statistical Analyses of Student Data](#statistical-analyses-of-student-data)
+
 
 
 ### Introduction
@@ -446,7 +448,7 @@ This indicate that students gradually adapt to academic and social life. However
 --- 
 
 
-**STATISTICAL ANALYSES OF STUDENT DATA**
+**Statistical Analyses of Student Data**
 ---
 
 In this section, we analyze key statistical measures for students' ages and CGPA midpoints using descriptive statistics. This helps to understand the distribution, central tendencies, and variability in the dataset.
